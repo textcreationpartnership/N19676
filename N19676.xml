@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:025695_0000_0FCEC0A80B7E0440"/>
-            <pb facs="tcp:025695_0001_0FCEC08F46E57120"/>
+            <pb facs="unknown:025695_0000_0FCEC0A80B7E0440"/>
+            <pb facs="unknown:025695_0001_0FCEC08F46E57120"/>
             <p>THE RURAL HARMONY, BEING AN ORIGINAL COMPOSITION IN <hi>THREE</hi> and <hi>FOUR PARTS.</hi> For the USE of SINGING SCHOOLS and MUSICAL SOCIETIES.</p>
             <p>BY JACOB KIMBALL, JUN. A. B.</p>
             <q>
@@ -131,7 +131,7 @@
             <p>PRINTED, <hi>Typographically,</hi> at <hi>BOSTON,</hi> BY ISAIAH THOMAS and EBENEZER T. ANDREWS. Sold at their Bookſtore, No. 45. Newbury Street; by ſaid THOMAS in WORCESTER; and by the BOOKSELLERS in BOSTON, and elſewhere.—1793.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:025695_0002_0FCEA110AA4D7BA8"/>
+            <pb facs="unknown:025695_0002_0FCEA110AA4D7BA8"/>
             <head>PREFACE.</head>
             <p>IN a country where muſic has not yet become a regular profeſſion, it cannot be expected that a compoſition of this kind can ſtand a rigid criticiſm; but as every attempt to ſubſerve the intereſt, or to encreaſe the innocent pleaſures of the community, deſerves public patronage, the author of the following work, without further apology, preſents it to the public eye.</p>
             <p>He has aimed at originality in his compoſitions, and endeavoured to deviate (as far as he deemed it juſtifiable) from the common ſtyle; where he has given into it, he has attempted to improve it by a particular attention to the harmony.</p>
@@ -143,7 +143,7 @@
             </closer>
          </div>
          <div type="text">
-            <pb facs="tcp:025695_0003_0FCEA1120BA26C90"/>
+            <pb facs="unknown:025695_0003_0FCEA1120BA26C90"/>
             <head>INTRODUCTION to the ART of SINGING.</head>
             <div type="introduction">
                <head>Of MUSIC in GENERAL.</head>
@@ -363,7 +363,7 @@
                   </table>
                </p>
                <p>
-                  <pb facs="tcp:025695_0004_0FCEA1148F0C2088"/>
+                  <pb facs="unknown:025695_0004_0FCEA1148F0C2088"/>
 THE ſcale is divided into three parts; each part, conſiſting of five lines, with their ſpaces, and diſtinguiſhed with a cliff, is called a ſtave.</p>
                <p>The firſt diviſion is called the Baſs ſtave; its cliff is thus marked 𝄢 and is called the F cliff—it is always placed on the fourth line from the bottom.</p>
                <p>The ſecond diviſion of the ſcale is called the Counter ſtave;—its cliff is thus marked 𝄡 and is called the C cliff. It is commonly placed on the middle line of the ſtave. This cliff, however, is moveable, and may be placed on either of the five lines or ſpaces; that line or ſpace which paſſes between the two tranſverſe ſtrokes, will be C, and all the other letters of the ſcale will be in regular ſucceſſion above and below it.</p>
@@ -372,7 +372,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                <p>It has been before obſerved, that of the ſeven degrees of ſound in the ſcale, two are ſemi-tones; their natural places are between B and C, and E and F. Their ſituation, however, is often varied by flats and ſharps, which tranſpoſe Mi from B, its natural place; in all which caſes the ſemitones will be between Mi and Fa, and La and Fa, as in the natural ſcale.</p>
             </div>
             <div type="part">
-               <pb n="v" facs="tcp:025695_0005_0FCEA115CFBE6D10"/>
+               <pb n="v" facs="unknown:025695_0005_0FCEA115CFBE6D10"/>
                <head>TABLE of the TRANSPOSITION of MI, by FLATS and SHARPS.</head>
                <p>
                   <table>
@@ -611,7 +611,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                      </row>
                   </table>
                </p>
-               <pb n="vi" facs="tcp:025695_0006_0FCEC061EC382CD8"/>
+               <pb n="vi" facs="unknown:025695_0006_0FCEC061EC382CD8"/>
                <p>The following SCALE will ſhew the <hi>Proportion</hi> of the Notes to each other.</p>
                <p>1 <hi>Semibreve</hi> — 𝆹 — Contains
 <list>
@@ -834,7 +834,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                </list>
                <p>Theſe three are very important characters in muſic; and their effects and uſes ſhould be carefully and critical<g ref="char:EOLhyphen"/>ly explained to learners by every teacher.</p>
                <list>
-                  <pb n="vii" facs="tcp:025695_0007_0FCEC06380768F90"/>
+                  <pb n="vii" facs="unknown:025695_0007_0FCEC06380768F90"/>
                   <label>Point of Addition. <g ref="char:musicNote">♩</g>· </label>
                   <item>This point, placed after a note, makes its ſound half as long again as it would be without it.</item>
                   <label>Point of Di<g ref="char:EOLhyphen"/>minution. <g ref="char:musicNote">♩</g>
@@ -876,7 +876,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                   <label>A Cloſe. <g ref="char:barlinef">𝄀</g>
                   </label>
                   <item>A cloſe ſhews the end of a piece of muſic.</item>
-                  <pb n="viii" facs="tcp:025695_0008_0FCEC0678A7421D8"/>
+                  <pb n="viii" facs="unknown:025695_0008_0FCEC0678A7421D8"/>
                   <label>Trill or Shake. tr.</label>
                   <item>
                      <p>A trill or ſhake is a quick and alternate repetition of the note over which it is placed, and the note immediately above it (from which the trill begins) ſo long as the time will allow; thus <gap reason="music">
@@ -909,7 +909,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                      </gap>
                   </label>
                   <item>Notes of tranſition are alſo ſmall notes added to the regular notes, and uſually ſlurred to them; the time given to them is commonly taken from the preceding note, and always from the note to which they are tied. Tranſition is conſidered as a muſical grace, and judicious
-<pb n="ix" facs="tcp:025695_0009_0FCEC068AA946BD0"/>performers may introduce it in many places where the notes are not expreſſed in the compo<g ref="char:EOLhyphen"/>ſition; but young ſingers ſhould be cautioned againſt its two frequent uſe; for an unſkillful introduction of it, inſtead of gracing, will have quite a contrary effect upon the muſic; and indeed this, and every other muſical grace, had better be entirely omitted than performed in an irregular manner.</item>
+<pb n="ix" facs="unknown:025695_0009_0FCEC068AA946BD0"/>performers may introduce it in many places where the notes are not expreſſed in the compo<g ref="char:EOLhyphen"/>ſition; but young ſingers ſhould be cautioned againſt its two frequent uſe; for an unſkillful introduction of it, inſtead of gracing, will have quite a contrary effect upon the muſic; and indeed this, and every other muſical grace, had better be entirely omitted than performed in an irregular manner.</item>
                   <label>Piano.</label>
                   <item>Directs the performer to ſing ſoft like an echo.</item>
                   <label>Pianiſſimo.</label>
@@ -953,7 +953,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                <p>A variety of other muſical terms might be explained, but as they are not often met within muſic books in this country, it may not be neceſſary to inſert them.</p>
             </div>
             <div type="part">
-               <pb n="x" facs="tcp:025695_0010_0FCEC06A25202298"/>
+               <pb n="x" facs="unknown:025695_0010_0FCEC06A25202298"/>
                <head>Of TIME, and its various MARKS or MODES.</head>
                <p>THERE are three kinds of time made uſe of in Muſic, viz. Common Time, Treble Time, and Compound Time.</p>
                <p>Common Time is divided into four modes. The firſt mode is called Adagio, and is thus marked <!-- &timeimperf-prolatimperf; --> 𝄴 This mode contains one ſemibreve, or the value thereof in other notes or reſts in each bar:—The bar is uſu<g ref="char:EOLhyphen"/>ally performed in the time of four ſeconds.</p>
@@ -977,7 +977,7 @@ THE ſcale is divided into three parts; each part, conſiſting of five lines, w
                <p>The firſt mode is thus marked 6/4 and contains the value of ſix crotchets in a bar. The bar is performed in the time of two ſeconds.</p>
                <p>The ſecond mode is thus marked 6/8 and contains the amount of ſix quavers in a bar. It is performed one quar<g ref="char:EOLhyphen"/>ter fafter than the firſt mode.</p>
                <p>
-                  <pb n="xi" facs="tcp:025695_0011_0FCEC06E52CFF6B8"/>
+                  <pb n="xi" facs="unknown:025695_0011_0FCEC06E52CFF6B8"/>
 It may not be unſerviceable to obſerve in this place, that the firſt mode of common time is the ſtandard with which all other modes are compared, and by which they are regulated. All modes which are marked with figures have a primary reference to this mode, and are derived from it;—thus, the mark 2/4 denotes that the bar muſt con<g ref="char:EOLhyphen"/>tain two fourths of a bar in the firſt mode of common time, or (which is the ſame thing) of a ſemibreve; and all other figures diſtinguiſhing different modes may be conſidered as fractions of a ſemibreve; the under figure ex<g ref="char:EOLhyphen"/>preſſing how many parts the ſemibreve muſt be divided into, and the upper figure ſhewing how many of thoſe parts are contained in a bar.</p>
                <p>When the modes above explained are thoroughly underſtood, a proper attention to the foregoing remarks will enable any one to acquire an idea of all other modes marked with figures, without any further illuſtration.</p>
             </div>
@@ -1075,7 +1075,7 @@ It may not be unſerviceable to obſerve in this place, that the firſt mode of 
                         <cell>1. 2.</cell>
                      </row>
                   </table>
-                  <pb n="xii" facs="tcp:025695_0012_0FCEC07044A83320"/>N. B. All Modes of time muſt be ſung faſter or ſlower than their comparative length as explained before, when muſical terms expreſſing <hi>moderation</hi> or <hi>haſtening</hi> are applied to them.</p>
+                  <pb n="xii" facs="unknown:025695_0012_0FCEC07044A83320"/>N. B. All Modes of time muſt be ſung faſter or ſlower than their comparative length as explained before, when muſical terms expreſſing <hi>moderation</hi> or <hi>haſtening</hi> are applied to them.</p>
             </div>
             <div type="part">
                <head>Of SYNCOPATION.</head>
@@ -1090,7 +1090,7 @@ It may not be unſerviceable to obſerve in this place, that the firſt mode of 
                <head>Of the KEYS of MUSIC.</head>
                <p>THERE are but two keys in muſic, viz. 1ſt, the major or ſharp key, and 2d. the minor or flat key. The firſt of theſe is adapted to expreſs the cheerful paſſions, and the latter is expreſſive of the ſolemn, the mournful and the pathetic.</p>
                <p>The key note is that ſound upon which a tune may be ſaid to be built:—It is the predominant tone, to which all others have a particular reference; it is commonly the concluding note of the tenor, and always that of the baſs,
-<pb n="xiii" facs="tcp:025695_0013_0FCEC071C0DE4270"/>In reckoning from the key note, if the ſemitones in the octave be between the third and the fourth, and between the ſeventh and the eighth, the tune is in the major or ſharp key; if they lie between the ſecond and third, and between the fifth and ſixth, it is in the minor or flat key.</p>
+<pb n="xiii" facs="unknown:025695_0013_0FCEC071C0DE4270"/>In reckoning from the key note, if the ſemitones in the octave be between the third and the fourth, and between the ſeventh and the eighth, the tune is in the major or ſharp key; if they lie between the ſecond and third, and between the fifth and ſixth, it is in the minor or flat key.</p>
                <p>In the natural ſcale the key note of the major key, will be C; of the minor it will be A.</p>
                <p>
                   <label>EXAMPLES.</label>
@@ -1107,7 +1107,7 @@ The regular places for the half tones are between B and C, and E and F, an exami
                <p>N. B. A. major third contains two whole, or four ſemitones. A minor third contains but three ſemitones.</p>
             </div>
             <div type="part">
-               <pb n="xiv" facs="tcp:025695_0014_0FCEC074A7E51AB0"/>
+               <pb n="xiv" facs="unknown:025695_0014_0FCEC074A7E51AB0"/>
                <head>LESSONS for TUNING the VOICE.</head>
                <p>
                   <label>Leſſon in the major key.</label> 
@@ -1127,7 +1127,7 @@ The regular places for the half tones are between B and C, and E and F, an exami
                   <hi>N. B.</hi> This leſſon alſo ſhould be well underſtood before tunes in the minor key are attempted. Whichever of theſe leſſons a teacher chuſes his pupils ſhould firſt attend to, it is recommended that they be made to practiſe upon tunes in the ſame key, before they endeavour to acquire a know<g ref="char:EOLhyphen"/>ledge of the other, &amp;c.</p>
             </div>
             <div type="part">
-               <pb n="xv" facs="tcp:025695_0015_0FCEC07ACDC65E00"/>
+               <pb n="xv" facs="unknown:025695_0015_0FCEC07ACDC65E00"/>
                <head>PARTICULAR OBSERVATIONS.</head>
                <p>IN the following work, when tunes have but three parts, the treble is placed between the tenor and the baſs; when they have four parts, the tenor is placed next to the baſs, the counter next to the tenor, and the treble next to the counter.</p>
                <p>Flats, ſharps, and naturals, are not conſidered as having influence (excepting at the beginning of tunes or ſtrains) upon any note but that immediately ſucceeding.</p>
@@ -1144,7 +1144,7 @@ The regular places for the half tones are between B and C, and E and F, an exami
                <p>Every note of every part of an excellent piece of muſic may be founded, ſtrictly ſpeaking, right, and the compo<g ref="char:EOLhyphen"/>ſition, nevertheleſs, appear dull and trifling. It is the expreſſive manner—the realizing the paſſion—and giving particular emphaſis to thoſe words which contain the force of the ſentiment, which give riſe to the inexpreſſible de<g ref="char:EOLhyphen"/>light derived from hearing good muſical performances.</p>
                <p>The voice, the looks, the geſtures of the performers, are ſeverally neceſſary to give muſic its full energy, and are reſpectively the ſources of pleaſure or diſguſt to the obſerving hearer.</p>
                <p>
-                  <pb n="xvi" facs="tcp:025695_0016_0FCEC07D08973418"/>
+                  <pb n="xvi" facs="unknown:025695_0016_0FCEC07D08973418"/>
 Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c. there are innumerable others which never have been, nor ever can be, defined; but muſt be learned (as was hinted before) by imitation, or ſuggeſted by a diſ<g ref="char:EOLhyphen"/>cerning judgment.</p>
                <p>Few graces, however, if any, are admiſſible in full choruſſes, unleſs they are expreſſed in the compoſition; in ſtrains of two or three parts, they may be frequently introduced; but ſolos are the proper field for their full diſplay.</p>
                <p>A vulgar, inarticulate pronunciation—a heavy, lifeleſs manner—ſudden and unmeaning exploſions of ſound, are totally inconſiſtent with good ſinging; on the other hand, a clear and ſpirited tone—a juſt and accurate pro<g ref="char:EOLhyphen"/>nunciation—and occaſional ſwells upon the notes, judiciouſly introduced, are diſtinguiſhing characteriſtics of an ele<g ref="char:EOLhyphen"/>gant performer.</p>
@@ -1157,7 +1157,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
       </front>
       <body>
          <div type="tune_book">
-            <pb facs="tcp:025695_0017_0FCEC07F672E51B8"/>
+            <pb facs="unknown:025695_0017_0FCEC07F672E51B8"/>
             <head>THE RURAL HARMONY, <hi>&amp;c</hi>
             </head>
             <div type="tune">
@@ -1170,7 +1170,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Thou art my portion, O my God; Soon as I know thy way, My heart makes haſte t'obey thy word, And ſuffers no delay.</p>
             </div>
             <div type="tune">
-               <pb n="18" facs="tcp:025695_0018_0FCEC081AA18DB00"/>
+               <pb n="18" facs="unknown:025695_0018_0FCEC081AA18DB00"/>
                <head>
                   <hi>Chelſea.</hi> P. M.</head>
                <p>
@@ -1180,7 +1180,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Come thou Almighty King, Help us thy name to ſing, Help us to praiſe. <stage>Con Spirito.</stage> Father all glorious! O'er all victorious, Come and reign over us, Ancient of days! <stage>For.</stage> Come and reign over us, Come and reign over us, Come and reign over us, Ancient of days.</p>
             </div>
             <div type="tune">
-               <pb n="19" facs="tcp:025695_0019_0FCEC08302DBE730"/>
+               <pb n="19" facs="unknown:025695_0019_0FCEC08302DBE730"/>
                <head>
                   <hi>Bradford.</hi> C. M.</head>
                <p>
@@ -1189,7 +1189,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> How ſhort and haſty is our life! How vaſt our ſouls' affairs! Yet ſenſeleſs mortals vainly ſtrive, To laviſh out their years, Our days run tho'tleſſ<g ref="char:EOLhyphen"/>ly along, Without a moment's ſtay, Juſt like a ſtory, or a ſong, We paſs our lives a╌way.</p>
             </div>
             <div type="tune">
-               <pb n="20" facs="tcp:025695_0020_0FCEC0846FA8DDE0"/>
+               <pb n="20" facs="unknown:025695_0020_0FCEC0846FA8DDE0"/>
                <head>
                   <hi>Berkeley.</hi> C. M.</head>
                <p>
@@ -1199,7 +1199,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Come let us join our cheerful ſongs, With angels round the throne; Ten thouſand thouſand are their tongues, But all their joys are one. Wor<g ref="char:EOLhyphen"/>thy the Lamb that dy'd they cry, To be exalted thus; Worthy the Lamb, our Lips re╌ply, For he was ſlain for us.</p>
             </div>
             <div type="tune">
-               <pb n="21" facs="tcp:025695_0021_0FCEC08636C10378"/>
+               <pb n="21" facs="unknown:025695_0021_0FCEC08636C10378"/>
                <head>
                   <hi>California.</hi> L. M.</head>
                <p>
@@ -1208,7 +1208,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Thou whom my ſoul admires a╌bove All earth╌ly joys, all earthly love; Tell me dear Shepherd, let me know, Where doth thy ſweeteſt paſture grow, Where doth thy ſweeteſt paſture grow.</p>
             </div>
             <div type="tune">
-               <pb n="22" facs="tcp:025695_0022_0FCEC08831C9E920"/>
+               <pb n="22" facs="unknown:025695_0022_0FCEC08831C9E920"/>
                <head>
                   <hi>Weathersfield.</hi> P. M.</head>
                <p>
@@ -1217,7 +1217,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> No burning heats by day, Nor blaſts of ev'ning air, Shall take my health away, If God be with me there, :S: <stage>Cres.</stage> Thou art my Sun and thou my Shade, To guard my head by night or noon, <stage>Dimin.</stage> Thou art my Sun and thou my Shade, To guard my head by night or noon.</p>
             </div>
             <div type="tune">
-               <pb n="23" facs="tcp:025695_0023_0FCEC0735C1DBD18"/>
+               <pb n="23" facs="unknown:025695_0023_0FCEC0735C1DBD18"/>
                <head>
                   <hi>Bennington.</hi> L. M.</head>
                <p>
@@ -1226,14 +1226,14 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> The Lord did on my ſide engage, From heav'n, his throne, my cauſe upheld, <stage>Adagio.</stage> And ſnatch'd me from the furious rage <stage>Largo.</stage> Of threat'ning waves which proudly ſwell'd. Of threat'ning waves which proudly ſwell'd.</p>
             </div>
             <div type="tune">
-               <pb n="24" facs="tcp:025695_0024_0FCEC089AE5D33A0"/>
+               <pb n="24" facs="unknown:025695_0024_0FCEC089AE5D33A0"/>
                <head>
                   <hi>Hillſborough.</hi> C. M.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Come ſaints adore Je╌ho╌vah's name, Your loud Hoſannas raiſe, Thro' all the world his works proclaim, Thro' all the world, Thro' all the world his works &amp;c. And ſound his glorious
-<pb n="25" facs="tcp:025695_0025_0FD0DCD373B551E8"/>praiſe, And ſound his glor'ous praiſe. And ſound &amp;c.</p>
+<pb n="25" facs="unknown:025695_0025_0FD0DCD373B551E8"/>praiſe, And ſound his glor'ous praiſe. And ſound &amp;c.</p>
             </div>
             <div type="tune">
                <head>
@@ -1244,10 +1244,10 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Lo! what an Entertaining ſight, Are brethren who a╌gree, Whoſe <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> with cheerful hearts unite In bonds pi╌e╌ty, When
-<pb n="26" facs="tcp:025695_0026_0FCEC08B25278920"/>ſtreams of love from Chriſt the ſpring, Deſcend to ev'ry ſoul, And heav'nly peace with balmy wing, with balmy wing, Shades and be╌dews the whole, Shades and bedews the whole.</p>
+<pb n="26" facs="unknown:025695_0026_0FCEC08B25278920"/>ſtreams of love from Chriſt the ſpring, Deſcend to ev'ry ſoul, And heav'nly peace with balmy wing, with balmy wing, Shades and be╌dews the whole, Shades and bedews the whole.</p>
             </div>
             <div type="tune">
-               <pb n="27" facs="tcp:025695_0027_0FCEC090C9AA2EA0"/>
+               <pb n="27" facs="unknown:025695_0027_0FCEC090C9AA2EA0"/>
                <head>
                   <hi>Charleſtown.</hi> L. M.</head>
                <p>
@@ -1256,14 +1256,14 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> My ſhepherd is the living Lord; Now ſhall my wants be well ſupplied; His providence and holy word Become my ſafety Become my ſafe╌ty and my guide.</p>
             </div>
             <div type="tune">
-               <pb n="28" facs="tcp:025695_0028_0FCEC091E52B0F78"/>
+               <pb n="28" facs="unknown:025695_0028_0FCEC091E52B0F78"/>
                <head>
                   <hi>Condeſcenſion.</hi> P. M.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> God's temple crowns the holy mount; The Lord there condeſcends to dwell, His Zion's gates in his account, Our Iſrael's faireſt tents excel ,His Zion's gates in his account, Our Iſ╌rael's faireſt
-<pb n="29" facs="tcp:025695_0029_0FCEC0967796F500"/>tents excel. Fame glorious things of thee ſhall ſing, O City of th' Al╌mighty King.</p>
+<pb n="29" facs="unknown:025695_0029_0FCEC0967796F500"/>tents excel. Fame glorious things of thee ſhall ſing, O City of th' Al╌mighty King.</p>
             </div>
             <div type="tune">
                <head>
@@ -1272,10 +1272,10 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Come my beloved haſte away, Cut ſhort the hours of thy delay, Fly like a youthful Hart or Roe, Over the
-<pb n="30" facs="tcp:025695_0030_0FCEC09BF8EBCAE8"/>hills where ſpices grow. Fly like a youthful Hart or Roe, Over the hills where ſpices grow, Over the hills where ſpices grow.</p>
+<pb n="30" facs="unknown:025695_0030_0FCEC09BF8EBCAE8"/>hills where ſpices grow. Fly like a youthful Hart or Roe, Over the hills where ſpices grow, Over the hills where ſpices grow.</p>
             </div>
             <div type="tune">
-               <pb n="31" facs="tcp:025695_0031_0FCEC09E325A2AD0"/>
+               <pb n="31" facs="unknown:025695_0031_0FCEC09E325A2AD0"/>
                <head>
                   <hi>Ipſwich.</hi> S. M.</head>
                <p>
@@ -1284,7 +1284,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Welcome ſweet day of reſt, That ſaw the Lord a╌riſe :S: Welcome to this re<g ref="char:EOLhyphen"/>vi╌ving breaſt, And theſe re╌joic╌ing eyes, And theſe re╌joicing eyes. :S:</p>
             </div>
             <div type="tune">
-               <pb n="32" facs="tcp:025695_0032_0FCEC09F66079880"/>
+               <pb n="32" facs="unknown:025695_0032_0FCEC09F66079880"/>
                <head>
                   <hi>Dartmouth.</hi> P. M.</head>
                <p>
@@ -1295,7 +1295,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap>s. :S: Thoſe wakeful eyes that never ſleep, Shall Iſrael keep when dangers riſe, Shall Iſrael keep when dangers riſe. :S:</p>
             </div>
             <div type="tune">
-               <pb n="33" facs="tcp:025695_0033_0FCEC0A101B08690"/>
+               <pb n="33" facs="unknown:025695_0033_0FCEC0A101B08690"/>
                <head>
                   <hi>Woburn.</hi> L. M.</head>
                <p>
@@ -1304,7 +1304,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Firm was my health, my day was bright, And I preſum'd 'twould ne'er be night. :S: Fondly I ſaid with╌in my heart Pleaſure and peace ſhall ne'er depart. :S:</p>
             </div>
             <div type="tune">
-               <pb n="34" facs="tcp:025695_0034_0FCEC0A264ED6E20"/>
+               <pb n="34" facs="unknown:025695_0034_0FCEC0A264ED6E20"/>
                <head>
                   <hi>Stoneham.</hi> L. M.</head>
                <p>
@@ -1313,7 +1313,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Thy praiſe, O God, in Zion waits; All fleſh ſhall croud thy ſa╌cred gates, To offer ſacri<g ref="char:EOLhyphen"/>fice and pray'r, And pay their willing homage there.</p>
             </div>
             <div type="tune">
-               <pb n="35" facs="tcp:025695_0035_0FCEA10F143EC510"/>
+               <pb n="35" facs="unknown:025695_0035_0FCEA10F143EC510"/>
                <head>
                   <hi>Dover.</hi> S. M.</head>
                <p>
@@ -1322,7 +1322,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Not all the blood of beaſts, On Jew╌iſh al╌tars ſlain, Can give the guilty conſcience peace Or waſh a╌way, Or waſh a╌way the ſtain.</p>
             </div>
             <div type="tune">
-               <pb n="36" facs="tcp:025695_0036_0FCEC0A9EC8D26C0"/>
+               <pb n="36" facs="unknown:025695_0036_0FCEC0A9EC8D26C0"/>
                <head>
                   <hi>Wenham.</hi> L. M.</head>
                <p>
@@ -1331,7 +1331,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Jeſus ſhall reign where'er the ſun, Does his ſuc╌ceſſive journeys run; His kingdom ſtretch from ſhore to ſhore, 'Till moons ſhall wax and wane no more.</p>
             </div>
             <div type="tune">
-               <pb n="37" facs="tcp:025695_0037_0FCEC0ABC4716BB0"/>
+               <pb n="37" facs="unknown:025695_0037_0FCEC0ABC4716BB0"/>
                <head>
                   <hi>Wilmington.</hi> S. M.</head>
                <p>
@@ -1346,7 +1346,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> O come loud anthems let us ſing, Loud thanks to our al╌migh╌ty king, For
-<pb n="38" facs="tcp:025695_0038_0FCEC0ACE9D4C168"/>we our voices high ſhould raiſe, When our ſal╌va╌tion's rock we praiſe.</p>
+<pb n="38" facs="unknown:025695_0038_0FCEC0ACE9D4C168"/>we our voices high ſhould raiſe, When our ſal╌va╌tion's rock we praiſe.</p>
             </div>
             <div type="tune">
                <head>
@@ -1356,10 +1356,10 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Upward I lift my eyes; From God is all my aid; The God who built the ſkies, And earth and
-<pb n="39" facs="tcp:025695_0039_0FCEC0AEB071C390"/>nature made. God is the tow'r to which I fly; His grace is nigh in ev'ry hour, His grace is nigh in ev'ry hour.</p>
+<pb n="39" facs="unknown:025695_0039_0FCEC0AEB071C390"/>nature made. God is the tow'r to which I fly; His grace is nigh in ev'ry hour, His grace is nigh in ev'ry hour.</p>
             </div>
             <div type="tune">
-               <pb n="40" facs="tcp:025695_0040_0FCEC0B4A9F4A960"/>
+               <pb n="40" facs="unknown:025695_0040_0FCEC0B4A9F4A960"/>
                <head>
                   <hi>Bedford.</hi> L. M.</head>
                <p>
@@ -1368,7 +1368,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Thou Lord by ſtricteſt ſearch haſt known, My riſing up and ly╌ing down; My ſe╌cret thoughts are known to thee, Known long be╌fore conceiv'd by me.</p>
             </div>
             <div type="tune">
-               <pb n="41" facs="tcp:025695_0041_0FCEC0B62A2A4408"/>
+               <pb n="41" facs="unknown:025695_0041_0FCEC0B62A2A4408"/>
                <head>
                   <hi>Oakham.</hi> C. M.</head>
                <p>
@@ -1383,20 +1383,20 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> When all thy mercies, O my God. My riſing ſoul ſur╌veys, Tranſported with the
-<pb n="42" facs="tcp:025695_0042_0FCEC0B7A19D02D0"/>view I'm loſt, In wonder, love and praiſe. O how ſhall words, with equal warmth, The gratitude de<g ref="char:EOLhyphen"/>clare, That glows with╌in my raviſh'd heart? <stage>Stocatto.</stage> But thou can'ſt read it there, But thou can'ſt read it there.</p>
+<pb n="42" facs="unknown:025695_0042_0FCEC0B7A19D02D0"/>view I'm loſt, In wonder, love and praiſe. O how ſhall words, with equal warmth, The gratitude de<g ref="char:EOLhyphen"/>clare, That glows with╌in my raviſh'd heart? <stage>Stocatto.</stage> But thou can'ſt read it there, But thou can'ſt read it there.</p>
             </div>
             <div type="tune">
-               <pb n="43" facs="tcp:025695_0043_0FCEC0B992F8E348"/>
+               <pb n="43" facs="unknown:025695_0043_0FCEC0B992F8E348"/>
                <head>
                   <hi>Reading.</hi> L. M.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Sweet is the work, my God and King, To praiſe thy name, give thanks and ſing; To ſhew thy love by morning light, And talk of all thy truth at night. Sweet is the day of ſacred reſt, <stage>Piano.</stage> No mor╌tal
-<pb n="44" facs="tcp:025695_0044_0FCEC0BA84FAEAE8"/>cares ſhall ſeize my breaſt. <stage>Forte.</stage> O may my heart in tune be found Like David's harp of ſolemn ſound. O may my heart in tune be found Like David's harp of ſo╌lemn ſound.</p>
+<pb n="44" facs="unknown:025695_0044_0FCEC0BA84FAEAE8"/>cares ſhall ſeize my breaſt. <stage>Forte.</stage> O may my heart in tune be found Like David's harp of ſolemn ſound. O may my heart in tune be found Like David's harp of ſo╌lemn ſound.</p>
             </div>
             <div type="tune">
-               <pb n="45" facs="tcp:025695_0045_0FCEC0BE81E71B38"/>
+               <pb n="45" facs="unknown:025695_0045_0FCEC0BE81E71B38"/>
                <head>
                   <hi>Portland.</hi> P. M.</head>
                <head>Pſalm 104.</head>
@@ -1407,7 +1407,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> My ſoul thy great Cre╌a╌tor praiſe, When cloth'd in his ce╌leſ╌tial rays, He in full majeſ<g ref="char:EOLhyphen"/>ty ap╌pears, And like a robe his glory wears. <stage>Melloſo.</stage> Great is the Lord, What tongue can frame An equal honour to his name.</p>
             </div>
             <div type="tune">
-               <pb n="46" facs="tcp:025695_0046_0FCEC0C1E9143C40"/>
+               <pb n="46" facs="unknown:025695_0046_0FCEC0C1E9143C40"/>
                <head>
                   <hi>Boxford.</hi> L. M.</head>
                <p>
@@ -1416,14 +1416,14 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> The lands which long in darkneſs lay, Now have beheld a heav'n╌ly light; <stage>tr.</stage> Nations which ſat in death's cold ſhade, <stage>Vivace.</stage> Are bleſt with beams divinely bright, Are bleſt with beams, &amp;c. Are bleſt, &amp;c.</p>
             </div>
             <div type="tune">
-               <pb n="47" facs="tcp:025695_0047_0FCEC0C4454CB850"/>
+               <pb n="47" facs="unknown:025695_0047_0FCEC0C4454CB850"/>
                <head>
                   <hi>Middleton.</hi> S. M.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> When overwhelm'd with grief, My heart within me dies! Helpleſs and far from all relief, To heav'n I lift my eyes. O lead me to the Rock, That's high a╌bove my head; And make the cover
-<pb n="48" facs="tcp:025695_0048_0FCEC0C5C06380A8"/>of thy wings My ſhelter and my ſhade, My ſhel╌ter and my ſhade.</p>
+<pb n="48" facs="unknown:025695_0048_0FCEC0C5C06380A8"/>of thy wings My ſhelter and my ſhade, My ſhel╌ter and my ſhade.</p>
             </div>
             <div type="tune">
                <head>
@@ -1434,21 +1434,21 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> And muſt this body die, This mortal frame decay? And muſt theſe active limbs of mine Lie mould'ring in the clay?</p>
             </div>
             <div type="tune">
-               <pb n="49" facs="tcp:025695_0049_0FCEC0C727049238"/>
+               <pb n="49" facs="unknown:025695_0049_0FCEC0C727049238"/>
                <head>An Anthem.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> O come ſing un╌to the Lord, unto the Lord, O come ſing un╌to the Lord, unto the Lord, Let us heartily rejoice, in the rock of our ſalvation, the rock of our ſalvation, the
-<pb n="50" facs="tcp:025695_0050_0FCEC0C8A5958560"/>rock of our ſal╌vation, Let us heartily rejoice in the rock of our ſal╌vation, in the rock of our ſalvation. We will come into his preſence with thankſgiving, we will come into his preſence with thankſgiving, we will come into his preſence with thankſgiving, we will
-<pb n="51" facs="tcp:025695_0051_0FCEC10642FF9018"/>make a joyful noiſe unto him with pſalms, we will make a joyful noiſe For the Lord is a great God! For the Lord is a great God! <stage>Pia.</stage> And his merciful kindneſs, his merciful kindneſs is ever, <stage>For.</stage> evermore towards us.
-<pb n="52" facs="tcp:025695_0052_0FCEA118F6DFA350"/>
+<pb n="50" facs="unknown:025695_0050_0FCEC0C8A5958560"/>rock of our ſal╌vation, Let us heartily rejoice in the rock of our ſal╌vation, in the rock of our ſalvation. We will come into his preſence with thankſgiving, we will come into his preſence with thankſgiving, we will come into his preſence with thankſgiving, we will
+<pb n="51" facs="unknown:025695_0051_0FCEC10642FF9018"/>make a joyful noiſe unto him with pſalms, we will make a joyful noiſe For the Lord is a great God! For the Lord is a great God! <stage>Pia.</stage> And his merciful kindneſs, his merciful kindneſs is ever, <stage>For.</stage> evermore towards us.
+<pb n="52" facs="unknown:025695_0052_0FCEA118F6DFA350"/>
                   <stage>Pia.</stage> and his merciful kindneſs, his merciful kindneſs is ever, <stage>Forte.</stage> ever more towards us. <stage>Piano.</stage> And the truth of the Lord, the truth of the Lord, the truth of the Lord endureth for╌ever, the truth of the Lord, the truth of the Lord, <stage>Forte.</stage> en╌dur╌eth for╌ever.
 <stage>Pia.</stage> the truth of the Lord, <stage>Forte.</stage> the truth of the Lord, en-dur-eth for-ever.
-<pb n="53" facs="tcp:025695_0053_0FCEA11A4F2E2B60"/>
+<pb n="53" facs="unknown:025695_0053_0FCEA11A4F2E2B60"/>
                   <stage>Minore.</stage> Tho' his wrath, tho' his wrath may endure for a moment, tho' his wrath, tho' his wrath may endure for a moment, <stage>Major.</stage> Yet in his favor, in his favor is life, yet in his favor, in his favor is life, yet in his favor, in his favor, in his favor,
-<pb n="54" facs="tcp:025695_0054_0FCEA12464788470"/>is life. Glory be to the Father and to the Son and to the Ho╌ly Ho╌ly Ghoſt, As it was in the beginning, as it was in the beginning is now and ever <stage>Forte.</stage> ſhall
-<pb n="55" facs="tcp:025695_0055_0FCEA1259CD44790"/>be and ever ſhall be, World without end amen, world without end amen, a╌men, amen, amen.</p>
+<pb n="54" facs="unknown:025695_0054_0FCEA12464788470"/>is life. Glory be to the Father and to the Son and to the Ho╌ly Ho╌ly Ghoſt, As it was in the beginning, as it was in the beginning is now and ever <stage>Forte.</stage> ſhall
+<pb n="55" facs="unknown:025695_0055_0FCEA1259CD44790"/>be and ever ſhall be, World without end amen, world without end amen, a╌men, amen, amen.</p>
             </div>
             <div type="tune">
                <head>
@@ -1459,7 +1459,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Sin haſt a thouſand treach'rous arts To practice on the mind; With flatt'ring looks ſhe tempts our hearts, But leaves a ſting be╌hind.</p>
             </div>
             <div type="tune">
-               <pb n="56" facs="tcp:025695_0056_0FCEC0CA28B6E1D0"/>
+               <pb n="56" facs="unknown:025695_0056_0FCEC0CA28B6E1D0"/>
                <head>
                   <hi>Rowley.</hi> L. M.</head>
                <p>
@@ -1468,13 +1468,13 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> The ſaints ſhall flouriſh in his days, Dreſt in the robes of joy and praiſe; Peace like a Peace like a river from his throne,Peace like a river from his throne, Shall flow to nations, flow to nations yet unknown.</p>
             </div>
             <div type="tune">
-               <pb n="57" facs="tcp:025695_0057_0FCEC0CBD766F398"/>
+               <pb n="57" facs="unknown:025695_0057_0FCEC0CBD766F398"/>
                <head>Stockholm.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Ah lovely ap╌pearance of death, No ſight upon earth is ſo fair, Not all the gay pageants that breathe, Can with a dead body compare. With ſolemn delight I ſurvey The
-<pb n="58" facs="tcp:025695_0058_0FCEC0CD56241740"/>corps when the ſpirit is fled, In love with the beautiful clay, And longing to lie in its ſtead.</p>
+<pb n="58" facs="unknown:025695_0058_0FCEC0CD56241740"/>corps when the ſpirit is fled, In love with the beautiful clay, And longing to lie in its ſtead.</p>
             </div>
             <div type="tune">
                <head>
@@ -1485,7 +1485,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> O come let us join, Together combine, To praiſe our dear Saviour, Our Maſter divine.</p>
             </div>
             <div type="tune">
-               <pb n="59" facs="tcp:025695_0059_0FCEC0CEB4FFF670"/>
+               <pb n="59" facs="unknown:025695_0059_0FCEC0CEB4FFF670"/>
                <head>
                   <hi>Judgment.</hi> P. M.</head>
                <p>
@@ -1494,7 +1494,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Our God ſhall come, and keep no more, Miſconſtru'd ſilence as before; <stage>For.</stage> But waſting flames before him ſend; Around ſhall tempeſts fiercely rage, While he doth heav'n and earth engage, His juſt tri╌bunal to attend.</p>
             </div>
             <div type="tune">
-               <pb n="60" facs="tcp:025695_0060_0FCEC0D06CB42EF0"/>
+               <pb n="60" facs="unknown:025695_0060_0FCEC0D06CB42EF0"/>
                <head>
                   <hi>Malden.</hi> C. M.</head>
                <p>
@@ -1503,7 +1503,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Now ſhall my head be lifted high Above my foes around, And ſongs of joy and vic╌to╌ry, Within thy temple ſound, Within thy temple ſound.</p>
             </div>
             <div type="tune">
-               <pb n="61" facs="tcp:025695_0061_0FCEC0D26863E7A0"/>
+               <pb n="61" facs="unknown:025695_0061_0FCEC0D26863E7A0"/>
                <head>Marietta.</head>
                <byline>Words by Addiſon.</byline>
                <p>
@@ -1512,7 +1512,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> The Lord my paſture ſhall prepare, And feed me with a ſhepherd's care; His preſence ſhall my wants ſupply, And guard me with a watchful eye; My noonday walks he ſhall attend, And all my midnight hours defend</p>
             </div>
             <div type="tune">
-               <pb n="62" facs="tcp:025695_0062_0FCEC0D3E995F348"/>
+               <pb n="62" facs="unknown:025695_0062_0FCEC0D3E995F348"/>
                <head>
                   <hi>Haddam.</hi> C. M.</head>
                <p>
@@ -1521,7 +1521,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Now ſhall my inward joys ariſe And burſt in╌to a ſong, Al╌migh╌ty love in<g ref="char:EOLhyphen"/>ſpires my heart, And plea╌ſure tunes my tongue And pleaſure tunes my tongue.</p>
             </div>
             <div type="tune">
-               <pb n="63" facs="tcp:025695_0063_0FCEC0D5730245F8"/>
+               <pb n="63" facs="unknown:025695_0063_0FCEC0D5730245F8"/>
                <head>
                   <hi>Harlem.</hi> Pſalm 100.</head>
                <byline>Dr. Watts.</byline>
@@ -1529,9 +1529,9 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Ye nations round the earth rejoice, Before the Lord the ſov'reign king; Serve him with cheerful heart and voice, With all your tongues his glory ſing, With all your tongues his glory ſing. The Lord is God! 'tis he a<g ref="char:EOLhyphen"/>lone
-<pb n="64" facs="tcp:025695_0064_0FCEC0D6E598E890"/>Doth life and light and be╌ing give; We are his works and not our own, The ſheep that on his paſtures live, The ſheep that on his paſtures live. Enter his gates with ſongs of joy, With
-<pb n="65" facs="tcp:025695_0065_0FCEC0D8AAF066B0"/>praiſes to his courts repair; And make it your di╌vine employ, To pay your thankful ho<g ref="char:EOLhyphen"/>mage there. <stage>Fin.</stage> The Lord is good the Lord is kind; Great is his grace, his mercy ſure;
-<pb n="66" facs="tcp:025695_0066_0FCEC0DCD39D4D20"/>And the whole race of man ſhall find, His truth from age to age endure, His truth from age to age endure.</p>
+<pb n="64" facs="unknown:025695_0064_0FCEC0D6E598E890"/>Doth life and light and be╌ing give; We are his works and not our own, The ſheep that on his paſtures live, The ſheep that on his paſtures live. Enter his gates with ſongs of joy, With
+<pb n="65" facs="unknown:025695_0065_0FCEC0D8AAF066B0"/>praiſes to his courts repair; And make it your di╌vine employ, To pay your thankful ho<g ref="char:EOLhyphen"/>mage there. <stage>Fin.</stage> The Lord is good the Lord is kind; Great is his grace, his mercy ſure;
+<pb n="66" facs="unknown:025695_0066_0FCEC0DCD39D4D20"/>And the whole race of man ſhall find, His truth from age to age endure, His truth from age to age endure.</p>
                <stage>N. B. Conclude with the strain,"Enter his gates" &amp;c. &amp;c.</stage>
             </div>
             <div type="tune">
@@ -1542,13 +1542,13 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Rejoice ye ſhining worlds on high, Behold the king of glo╌ry nigh, Behold the king of
-<pb n="67" facs="tcp:025695_0067_0FCEC0DE6C09BE20"/>glo╌ry nigh. Rejoice ye ſhining worlds on high, Behold the King of glory nigh, Be<g ref="char:EOLhyphen"/>hold the King of glory nigh. Rejoice ye ſhin╌ing worlds on high, Behold the King of
-<pb n="68" facs="tcp:025695_0068_0FCEC0DFE8E6C3A0"/>glory nigh. Who can this king of glory be? The mighty Lord, the Saviour's he! The migh╌ty Lord, The Saviour's he, The Saviour's he! <stage>Forte.</stage> Ye Heav'nly gates, your leaves diſplay, To make this King of glory way,
-<pb n="69" facs="tcp:025695_0069_0FCEC0E16A35D4F8"/>Laden with ſpoils of earth and hell, Laden with ſpoils of earth and hell, The Conq'rer comes, the Conq'rer comes with God to dwell. Rais'd from the dead, he goes be╌fore, He opens heav'n's e╌ter╌nal door, He opens
-<pb n="70" facs="tcp:025695_0070_0FCEC0E2E2F4AB60"/>heav'n's e╌ternal door, <stage>Pia.</stage> To give, to give his ſaints a bleſt, a bleſt abode, <stage>For.</stage> To give, to give his ſaints a bleſt a<g ref="char:EOLhyphen"/>bode <stage>Creſendo.</stage> Near their Redeemer and their God, <stage>Diminuendo.</stage> Near their Redeemer, Near their Redeemer and their God.</p>
+<pb n="67" facs="unknown:025695_0067_0FCEC0DE6C09BE20"/>glo╌ry nigh. Rejoice ye ſhining worlds on high, Behold the King of glory nigh, Be<g ref="char:EOLhyphen"/>hold the King of glory nigh. Rejoice ye ſhin╌ing worlds on high, Behold the King of
+<pb n="68" facs="unknown:025695_0068_0FCEC0DFE8E6C3A0"/>glory nigh. Who can this king of glory be? The mighty Lord, the Saviour's he! The migh╌ty Lord, The Saviour's he, The Saviour's he! <stage>Forte.</stage> Ye Heav'nly gates, your leaves diſplay, To make this King of glory way,
+<pb n="69" facs="unknown:025695_0069_0FCEC0E16A35D4F8"/>Laden with ſpoils of earth and hell, Laden with ſpoils of earth and hell, The Conq'rer comes, the Conq'rer comes with God to dwell. Rais'd from the dead, he goes be╌fore, He opens heav'n's e╌ter╌nal door, He opens
+<pb n="70" facs="unknown:025695_0070_0FCEC0E2E2F4AB60"/>heav'n's e╌ternal door, <stage>Pia.</stage> To give, to give his ſaints a bleſt, a bleſt abode, <stage>For.</stage> To give, to give his ſaints a bleſt a<g ref="char:EOLhyphen"/>bode <stage>Creſendo.</stage> Near their Redeemer and their God, <stage>Diminuendo.</stage> Near their Redeemer, Near their Redeemer and their God.</p>
             </div>
             <div type="tune">
-               <pb n="71" facs="tcp:025695_0071_0FCEC0E864E3A638"/>
+               <pb n="71" facs="unknown:025695_0071_0FCEC0E864E3A638"/>
                <head>
                   <hi>Severn.</hi> Hymn 74. Book 2.</head>
                <byline>Dr. Watts.</byline>
@@ -1556,10 +1556,10 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Is this the kind return? And theſe the thanks we owe, Is this the kind return, And theſe the thanks we owe, And theſe the thanks we owe? Thus to abuſe eternal love, Thus to abuſe eternal love, Whence all our bleſſings
-<pb n="72" facs="tcp:025695_0072_0FCEC0EA0D8D5088"/>all our bleſſings, all our bleſſings flow? To what a ſtubborn frame, Has ſin reduc'd our mind? What ſtrange rebellious wretches, What ſtrange rebellious wretches we, And God as ſtrangely kind! What ſtrange rebellious wretches we, And God, and
-<pb n="73" facs="tcp:025695_0073_0FCEC0EB2CA9E620"/>God as ſtrangely kind! Turn, Turn us, turn us, mighty God! And mould our hearts afreſh, Break ſov'reign grace theſe hearts of ſtone, And give us hearts of fleſh. Break, ſov'reign grace theſe hearts of ſtone, And give us hearts of fleſh. Let
-<pb n="74" facs="tcp:025695_0074_0FCEC0ECB4CD9FB8"/>old ingratitude, Provoke our weeping eyes; And hourly as new mercies fall, Let hourly thanks a╌riſe. Let old in<g ref="char:EOLhyphen"/>gratitude, Provoke our weeping, weeping eyes, And hourly as new mercies fall, Let hourly thanks ariſe, And hourly as new mercies fall, Let
-<pb n="75" facs="tcp:025695_0075_0FCEC0EF2ECEAA80"/>hourly thanks a╌riſe, Let hourly, hourly, thanks ariſe.</p>
+<pb n="72" facs="unknown:025695_0072_0FCEC0EA0D8D5088"/>all our bleſſings, all our bleſſings flow? To what a ſtubborn frame, Has ſin reduc'd our mind? What ſtrange rebellious wretches, What ſtrange rebellious wretches we, And God as ſtrangely kind! What ſtrange rebellious wretches we, And God, and
+<pb n="73" facs="unknown:025695_0073_0FCEC0EB2CA9E620"/>God as ſtrangely kind! Turn, Turn us, turn us, mighty God! And mould our hearts afreſh, Break ſov'reign grace theſe hearts of ſtone, And give us hearts of fleſh. Break, ſov'reign grace theſe hearts of ſtone, And give us hearts of fleſh. Let
+<pb n="74" facs="unknown:025695_0074_0FCEC0ECB4CD9FB8"/>old ingratitude, Provoke our weeping eyes; And hourly as new mercies fall, Let hourly thanks a╌riſe. Let old in<g ref="char:EOLhyphen"/>gratitude, Provoke our weeping, weeping eyes, And hourly as new mercies fall, Let hourly thanks ariſe, And hourly as new mercies fall, Let
+<pb n="75" facs="unknown:025695_0075_0FCEC0EF2ECEAA80"/>hourly thanks a╌riſe, Let hourly, hourly, thanks ariſe.</p>
             </div>
             <div type="tune">
                <head>
@@ -1570,7 +1570,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Ariſe my ſoul, my joyful pow'rs, And triumph in my God; Awake, my voice, and loud proclaim His glor'ous grace abroad.</p>
             </div>
             <div type="tune">
-               <pb n="76" facs="tcp:025695_0076_0FCEC0F09C505A20"/>
+               <pb n="76" facs="unknown:025695_0076_0FCEC0F09C505A20"/>
                <head>
                   <hi>Weſtfield.</hi> C. M.</head>
                <p>
@@ -1580,7 +1580,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <stage>Moderato.</stage> My God, my portion and my love, My ev╌er╌laſting all! I've none but thee in heav'n above, Or on this earthly ball, Or on this earthly ball.</p>
             </div>
             <div type="tune">
-               <pb n="77" facs="tcp:025695_0077_0FCEC0F2EBAE9248"/>
+               <pb n="77" facs="unknown:025695_0077_0FCEC0F2EBAE9248"/>
                <head>
                   <hi>Zealand.</hi> C. M.</head>
                <p>
@@ -1589,7 +1589,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> How vain are all things here bellow! How falſe and yet how fair! Each pleaſure hath a poiſon too, And ev'ry ſweet a ſnare. The brighteſt things below the ſky Give but a flatt'ring light, We ſhould ſuſpect ſome danger nigh, When we poſſeſs delight.</p>
             </div>
             <div type="tune">
-               <pb n="78" facs="tcp:025695_0078_0FCEC0F42797D958"/>
+               <pb n="78" facs="unknown:025695_0078_0FCEC0F42797D958"/>
                <head>
                   <hi>Georgia.</hi> L. M.</head>
                <p>
@@ -1598,7 +1598,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Hark! hark, hark what news the angels bring, Glad tid╌ings of a newborn king. Born of a maid, a virgin pure, Born without ſin from guilt ſecure, Born of a maid, a virgin pure, Born without ſin from guilt ſecure.</p>
             </div>
             <div type="tune">
-               <pb n="79" facs="tcp:025695_0079_0FCEC0F5AC8A0210"/>
+               <pb n="79" facs="unknown:025695_0079_0FCEC0F5AC8A0210"/>
                <head>
                   <hi>Hadley.</hi> Pſalm 50.</head>
                <byline>Dr. Watts.</byline>
@@ -1608,7 +1608,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> The God of glory ſends his ſummons forth; Calls the ſouth nations and awakes the north; From eaſt to weſt the ſov'reign orders ſpread, Thro' diſtant worlds and regions of the dead. The trumpet ſounds; Hell trembles; Heav'n rejoices; Lift up your heads, ye ſaints, With cheerful voices.</p>
             </div>
             <div type="tune">
-               <pb n="80" facs="tcp:025695_0080_0FCEC0F7D973ABB8"/>
+               <pb n="80" facs="unknown:025695_0080_0FCEC0F7D973ABB8"/>
                <head>
                   <hi>Methuen.</hi> C. M.</head>
                <p>
@@ -1617,14 +1617,14 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> I ſing my Saviour's wondrous death; He triumph'd when he fell, Tis finiſh'd ſaid his dy╌ing breath, And ſhook the gates of hell.</p>
             </div>
             <div type="tune">
-               <pb n="81" facs="tcp:025695_0081_0FCEC0F9B8E0EDA8"/>
+               <pb n="81" facs="unknown:025695_0081_0FCEC0F9B8E0EDA8"/>
                <head>
                   <hi>Glouceſter.</hi> L. M.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap>Give to the Lord immortal praiſe Mercy and truth are all his ways! Wonders of grace to God belong Repeat his mercies, Repeat his mercies in your ſong. Give to the Lord of Lords renown, The King of kings with glory
-<pb n="82" facs="tcp:025695_0082_0FCEC0FBC37281E0"/>crown, His mercy ever ſhall endure, When lords and kings are known no more.</p>
+<pb n="82" facs="unknown:025695_0082_0FCEC0FBC37281E0"/>crown, His mercy ever ſhall endure, When lords and kings are known no more.</p>
             </div>
             <div type="tune">
                <head>
@@ -1634,8 +1634,8 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                      <desc>〈♫〉</desc>
                   </gap> 
                   <stage>Pia.</stage> I heard a great voice from heav'n, <stage>For.</stage> I heard a great voice from heav'n, ſaying unto me, <stage>For.</stage> ſaying unto
-<pb n="83" facs="tcp:025695_0083_0FCEC0FD270D7790"/>me, <stage>Pia.</stage> write from henceforth, <stage>Forte.</stage> write from henceforth, write <stage>Pia.</stage> bleſſed are the dead, <stage>Forte.</stage> bleſſed are the dead, who die in the Lord. <stage>Pia.</stage> Even ſo, even ſo, ſaith the ſpirit, for they reſt from their labors, <stage>Forte.</stage> they reſt from their labors, they reſt from their
-<pb n="84" facs="tcp:025695_0084_0FCEC0FEB17FB8F0"/>labors, <stage>Pia.</stage> and their works do follow them, <stage>Forte.</stage> their works do follow them, <stage>Adagio.</stage> their works do follow them.</p>
+<pb n="83" facs="unknown:025695_0083_0FCEC0FD270D7790"/>me, <stage>Pia.</stage> write from henceforth, <stage>Forte.</stage> write from henceforth, write <stage>Pia.</stage> bleſſed are the dead, <stage>Forte.</stage> bleſſed are the dead, who die in the Lord. <stage>Pia.</stage> Even ſo, even ſo, ſaith the ſpirit, for they reſt from their labors, <stage>Forte.</stage> they reſt from their labors, they reſt from their
+<pb n="84" facs="unknown:025695_0084_0FCEC0FEB17FB8F0"/>labors, <stage>Pia.</stage> and their works do follow them, <stage>Forte.</stage> their works do follow them, <stage>Adagio.</stage> their works do follow them.</p>
             </div>
             <div type="tune">
                <head>
@@ -1645,7 +1645,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                      <desc>〈♫〉</desc>
                   </gap> 
                   <stage>Preſto.</stage> Ye ſervants of God your maſter proclaim, And publiſh abroad his wonderful name; The name all vic<g ref="char:EOLhyphen"/>tor'ous
-<pb n="85" facs="tcp:025695_0085_0FCEC100473E0CB8"/>of Jeſus ex╌tol; His kingdom is glor'ous and rules over all.</p>
+<pb n="85" facs="unknown:025695_0085_0FCEC100473E0CB8"/>of Jeſus ex╌tol; His kingdom is glor'ous and rules over all.</p>
             </div>
             <div type="tune">
                <head>
@@ -1656,7 +1656,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Bleſt are the ſons of peace, Whoſe hearts and hopes are one. Whoſe king deſigns to ſerve and pleaſe Thro' all their actions run. Whoſe kind deſigns to ſerve and pleaſe Thro' all their actions run.</p>
             </div>
             <div type="tune">
-               <pb n="86" facs="tcp:025695_0086_0FCEC101B03E5780"/>
+               <pb n="86" facs="unknown:025695_0086_0FCEC101B03E5780"/>
                <head>
                   <hi>Arundel.</hi> P. M.</head>
                <p>
@@ -1665,7 +1665,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Along the banks where Babel's current flows, Our captive bands in deep deſpondence ſtray'd; While Zion's fall in ſad remembrance roſe, Her friends, her children, mingled with the dead.</p>
             </div>
             <div type="tune">
-               <pb n="87" facs="tcp:025695_0087_0FCEC1032DEF3B48"/>
+               <pb n="87" facs="unknown:025695_0087_0FCEC1032DEF3B48"/>
                <head>
                   <hi>Edinburgh.</hi> P. M.</head>
                <p>
@@ -1675,7 +1675,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <stage>Moderato.</stage> O tell me no more, Of this world's vain ſtore. The time for ſuch trifles with me now is o'er, The time for ſuch trifles with me now is o'er.</p>
             </div>
             <div type="tune">
-               <pb n="88" facs="tcp:025695_0088_0FCEC104B9FEE898"/>
+               <pb n="88" facs="unknown:025695_0088_0FCEC104B9FEE898"/>
                <head>
                   <hi>Fairford.</hi> P. M.</head>
                <p>
@@ -1684,22 +1684,22 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Jeſus, who dy'd a world to ſave, Revives and riſes from the grave, By his almighty pow'r; From ſin and death and hell ſet free, <stage>Mod.</stage> He captive leads cap╌tiv╌ity. He captive leads cap╌tiv╌ity, And lives to die no more.</p>
             </div>
             <div type="tune">
-               <pb n="89" facs="tcp:025695_0089_0FCEA117528C0FE8"/>
+               <pb n="89" facs="unknown:025695_0089_0FCEA117528C0FE8"/>
                <head>
                   <hi>An Anthem.</hi> Words from Iſaiah 25th Chap.</head>
                <p>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> O Lord thou art my God and I will exalt thee, <stage>Con Spirito.</stage> And I will exalt thee, And I will exalt thee, and I will exalt thee, <stage>Pia.</stage> And I will praiſe thy name, and I will praiſe thy name, and I will praiſe thy name, For
-<pb n="90" facs="tcp:025695_0090_0FCEC107CDAC3E80"/>ever and ever, for╌ever and ever. <stage>Maeſtoſo,</stage> For thou haſt done wonderful things, done wonderful, wonderful things; Thy counſels of old are faithfulneſs and truth, thy counſels of old are faithfulneſs and truth, thy counſels, thy counſels of old are faithfulneſs and truth.
-<pb n="91" facs="tcp:025695_0091_0FCEC10CFABA87D8"/>Thou haſt been the ſtrength of the poor and needy, thou haſt been the ſtrength of the poor and needy in all their diſtreſſes in all their diſ<g ref="char:EOLhyphen"/>treſſes; A refuge from the ſtorm, <stage>Fortiſimo.</stage> When the rage of the mighty aroſe as a tempeſt againſt them, When the rage of the
-<pb n="92" facs="tcp:025695_0092_0FCEC10F438B2E48"/>mighty aroſe as a tempeſt againſt them. Thou wilt ſwallow up death, in victory Thou wilt ſwallow up death,in victory, in victory; and the Lord God ſhall wipe away the tear, the Lord God ſhall wipe away the tear, the tear from ev'ry eye, the Lord God ſhall
-<pb n="93" facs="tcp:025695_0093_0FCEC110C2CF73B0"/> wipe away the tear, ſhall wipe away the tear, the tear from ev'ry eye; <stage>Grave.</stage> For the mouth of the Lord hath ſpoken it! Lo! this is our God; We have waited for him and he will ſave us; this is the Lord: we have waited for him, we have waited
-<pb n="94" facs="tcp:025695_0094_0FCEC112415FBEE0"/>for him, We will be glad and rejoice in his ſalvation, we will be glad and rejoice in his ſalvation, we will be glad and re<g ref="char:EOLhyphen"/>joice in his ſalvation will be glad and rejoice in his ſalvation. Bleſſed be the Lord God Almighty, bleſſed be the Lord God Al<g ref="char:EOLhyphen"/>mighty,
-<pb n="95" facs="tcp:025695_0095_0FCEC113A5CB6658"/>from everlaſting, to everlaſting, Bleſſed be the Lord God Almighty, from everlaſting, to everlaſting, from ever<g ref="char:EOLhyphen"/>laſting, to ev╌er╌laſt╌ing. And let all the people ſay a╌men, and let all the people ſay a╌men, a╌men.</p>
+<pb n="90" facs="unknown:025695_0090_0FCEC107CDAC3E80"/>ever and ever, for╌ever and ever. <stage>Maeſtoſo,</stage> For thou haſt done wonderful things, done wonderful, wonderful things; Thy counſels of old are faithfulneſs and truth, thy counſels of old are faithfulneſs and truth, thy counſels, thy counſels of old are faithfulneſs and truth.
+<pb n="91" facs="unknown:025695_0091_0FCEC10CFABA87D8"/>Thou haſt been the ſtrength of the poor and needy, thou haſt been the ſtrength of the poor and needy in all their diſtreſſes in all their diſ<g ref="char:EOLhyphen"/>treſſes; A refuge from the ſtorm, <stage>Fortiſimo.</stage> When the rage of the mighty aroſe as a tempeſt againſt them, When the rage of the
+<pb n="92" facs="unknown:025695_0092_0FCEC10F438B2E48"/>mighty aroſe as a tempeſt againſt them. Thou wilt ſwallow up death, in victory Thou wilt ſwallow up death,in victory, in victory; and the Lord God ſhall wipe away the tear, the Lord God ſhall wipe away the tear, the tear from ev'ry eye, the Lord God ſhall
+<pb n="93" facs="unknown:025695_0093_0FCEC110C2CF73B0"/> wipe away the tear, ſhall wipe away the tear, the tear from ev'ry eye; <stage>Grave.</stage> For the mouth of the Lord hath ſpoken it! Lo! this is our God; We have waited for him and he will ſave us; this is the Lord: we have waited for him, we have waited
+<pb n="94" facs="unknown:025695_0094_0FCEC112415FBEE0"/>for him, We will be glad and rejoice in his ſalvation, we will be glad and rejoice in his ſalvation, we will be glad and re<g ref="char:EOLhyphen"/>joice in his ſalvation will be glad and rejoice in his ſalvation. Bleſſed be the Lord God Almighty, bleſſed be the Lord God Al<g ref="char:EOLhyphen"/>mighty,
+<pb n="95" facs="unknown:025695_0095_0FCEC113A5CB6658"/>from everlaſting, to everlaſting, Bleſſed be the Lord God Almighty, from everlaſting, to everlaſting, from ever<g ref="char:EOLhyphen"/>laſting, to ev╌er╌laſt╌ing. And let all the people ſay a╌men, and let all the people ſay a╌men, a╌men.</p>
             </div>
             <div type="tune">
-               <pb n="96" facs="tcp:025695_0096_0FCEC116AFC61270"/>
+               <pb n="96" facs="unknown:025695_0096_0FCEC116AFC61270"/>
                <head>
                   <hi>Durham.</hi> P. M.</head>
                <p>
@@ -1708,7 +1708,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> How pleaſant 'tis to ſee, Kindred and friends agree, Each in their proper ſtation move, And each ful╌fil their part, With ſympa╌thizing heart, In all the cares of life and love.</p>
             </div>
             <div type="tune">
-               <pb n="97" facs="tcp:025695_0097_0FCEC119ABF710E0"/>
+               <pb n="97" facs="unknown:025695_0097_0FCEC119ABF710E0"/>
                <head>
                   <hi>Waterford.</hi> S. M.</head>
                <p>
@@ -1717,7 +1717,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> To bleſs thy choſen race, In mercy, In mercy Lord incline, And cauſe the brightneſs of thy face, On all thy ſaints to ſhine, On all thy ſaints to ſhine.</p>
             </div>
             <div type="tune">
-               <pb n="98" facs="tcp:025695_0098_0FCEC11B531B5F68"/>
+               <pb n="98" facs="unknown:025695_0098_0FCEC11B531B5F68"/>
                <head>
                   <hi>Marblehead.</hi> C. M.</head>
                <p>
@@ -1726,7 +1726,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> In╌dul╌gent God! with pity'ng eyes, The ſons of men ſurvey. And ſee how youthful ſinners ſport In a deſtructive way, And ſee how youthful ſinners ſport, In a Deſtructive way.</p>
             </div>
             <div type="tune">
-               <pb n="99" facs="tcp:025695_0099_0FCEC11DAF930FD8"/>
+               <pb n="99" facs="unknown:025695_0099_0FCEC11DAF930FD8"/>
                <head>
                   <hi>Kingſton.</hi> C. M.</head>
                <p>
@@ -1734,7 +1734,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                      <desc>〈♫〉</desc>
                   </gap> 
                   <stage>Moderato.</stage> In╌fi╌nite grief! a╌mazing woe! Be╌hold my bleeding Lord! Hell and the Jews con<g ref="char:EOLhyphen"/>ſpirehis death, And uſe the Roman ſword. Oh the ſharp pangs of ſmarting pain, My dear re<g ref="char:EOLhyphen"/>deemer
-<pb n="100" facs="tcp:025695_0100_0FCEC11F1C427388"/>bore, When knotty whips, and ragged thorns, His ſacred body tore.</p>
+<pb n="100" facs="unknown:025695_0100_0FCEC11F1C427388"/>bore, When knotty whips, and ragged thorns, His ſacred body tore.</p>
             </div>
             <div type="tune">
                <head>
@@ -1743,7 +1743,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> How pleaſant how di╌vinely fair, O Lord of hoſts, thy dwellings
-<pb n="101" facs="tcp:025695_0101_0FCEC1266B57DB10"/>are! With long de╌ſire my ſpirit faints, To meet th'aſſemblies of thy ſaints.</p>
+<pb n="101" facs="unknown:025695_0101_0FCEC1266B57DB10"/>are! With long de╌ſire my ſpirit faints, To meet th'aſſemblies of thy ſaints.</p>
             </div>
             <div type="tune">
                <head>
@@ -1752,7 +1752,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> I'm not aſham'd to own my Lord, Or to defend his cauſe; Maintain the honour of his name, The glory of his
-<pb n="102" facs="tcp:025695_0102_0FCEA1211D3416E8"/>croſs. :S: Jeſus my God! I know his name, His name is all my truſt; Nor will he put my ſoul to ſhame, Nor let my hope be loſt. :S: </p>
+<pb n="102" facs="unknown:025695_0102_0FCEA1211D3416E8"/>croſs. :S: Jeſus my God! I know his name, His name is all my truſt; Nor will he put my ſoul to ſhame, Nor let my hope be loſt. :S: </p>
             </div>
             <div type="tune">
                <head>
@@ -1763,7 +1763,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Join all the names of love and pow'r, Which ever men or angels bore; All are too mean to ſpeak his worth, Or ſet Immanuel's glory forth.</p>
             </div>
             <div type="tune">
-               <pb n="103" facs="tcp:025695_0103_0FCEA1228E0F6D20"/>
+               <pb n="103" facs="unknown:025695_0103_0FCEA1228E0F6D20"/>
                <head>
                   <hi>Yarmouth.</hi> S. M.</head>
                <p>
@@ -1772,7 +1772,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> My ſoul repeat his praiſe, Whoſe mercies are ſo great; Whoſe anger is ſo ſlow to riſe, So ready to a<g ref="char:EOLhyphen"/>bate.</p>
             </div>
             <div type="tune">
-               <pb n="104" facs="tcp:025695_0104_0FCEC12086AC0200"/>
+               <pb n="104" facs="unknown:025695_0104_0FCEC12086AC0200"/>
                <head>
                   <hi>Uxbridge.</hi> S. M.</head>
                <p>
@@ -1781,7 +1781,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> And will the God of grace, Per╌pet╌ual ſilence keep? The God of juſticehold his peace, And let his vengeance ſleep? And let his vengeance <stage>tr.</stage> ſleep.</p>
             </div>
             <div type="tune">
-               <pb n="105" facs="tcp:025695_0105_0FCEC122078118C8"/>
+               <pb n="105" facs="unknown:025695_0105_0FCEC122078118C8"/>
                <head>
                   <hi>Aſhburnham.</hi> P. M.</head>
                <p>
@@ -1791,7 +1791,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <stage>Vivace.</stage> O praiſe ye the Lord, Prepare your glad voice, His praiſe in the great Aſ╌ſem╌bly to ſing; In our great Cre╌a╌tor Let Iſrael rejoice, And children of Zion Be glad in their King.</p>
             </div>
             <div type="tune">
-               <pb n="106" facs="tcp:025695_0106_0FCEC1238934E348"/>
+               <pb n="106" facs="unknown:025695_0106_0FCEC1238934E348"/>
                <head>
                   <hi>Newbern.</hi> Pſalm 115. P. M.</head>
                <byline>Dr. Watts.</byline>
@@ -1801,7 +1801,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Not to our names, thou only juſt and true, Not to our worthleſs names is glory due: Thy pow'r and grace, thy truth and juſtice claim, Immortal honors to thy ſov'reign name. Shine thro' the earth from heav'n thy bleſt abode, Nor let the heathen ſay, and where's your God?</p>
             </div>
             <div type="tune">
-               <pb n="107" facs="tcp:025695_0107_0FCEC124F3B4CD18"/>
+               <pb n="107" facs="unknown:025695_0107_0FCEC124F3B4CD18"/>
                <head>
                   <hi>Exeter.</hi> P. M.</head>
                <p>
@@ -1810,7 +1810,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   </gap> Think, mighty God, on feeble man, How few his hours! how ſhort his ſpan! Short from the cradle to the grave! Who can ſecure his vital breath A<g ref="char:EOLhyphen"/>gainſt the bold demands of death, With ſkill to fly or pow'r to ſave? With ſkill to fly or pow'r to ſave?</p>
             </div>
             <div type="tune">
-               <pb n="108" facs="tcp:025695_0108_0FCEA11F966DD628"/>
+               <pb n="108" facs="unknown:025695_0108_0FCEA11F966DD628"/>
                <head>
                   <hi>Tunbridge.</hi> C. M.</head>
                <p>
@@ -1818,7 +1818,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                      <desc>〈♫〉</desc>
                   </gap> 
                   <stage>Moderato.</stage> Our ſins a╌las! how ſtrong they be! And like a rag╌ing flood, They break our duty, Lord, to thee, And force us far from God. <stage>Forte.</stage> The waves of trouble how they
-<pb n="109" facs="tcp:025695_0109_0FD0DDDF79518DB0"/>roll! How loud the tempeſt roars! <stage>Pia.</stage> But death ſhall land each wea╌ry ſoul, Safe on the heav'nly ſhores.</p>
+<pb n="109" facs="unknown:025695_0109_0FD0DDDF79518DB0"/>roll! How loud the tempeſt roars! <stage>Pia.</stage> But death ſhall land each wea╌ry ſoul, Safe on the heav'nly ſhores.</p>
             </div>
             <div type="tune">
                <head>
@@ -1827,7 +1827,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Thy mercy Lord to me extend, On thy protection I depend; And to thy wing for ſhelter haſte, 'Till this outrageous ſtorm is paſt. To
-<pb n="110" facs="tcp:025695_0110_0FCEC127E36C4C60"/>thy tribunal Lord I fly, Thou Sov'reign Judge and God moſt high, Who workers haſt for me begun, And wilt not leave thy work undone.</p>
+<pb n="110" facs="unknown:025695_0110_0FCEC127E36C4C60"/>thy tribunal Lord I fly, Thou Sov'reign Judge and God moſt high, Who workers haſt for me begun, And wilt not leave thy work undone.</p>
             </div>
             <div type="tune">
                <head>
@@ -1836,7 +1836,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> Not from the duſt af╌fliction grows, Nor troubles riſe by chance; Yet we are born to cares and woes, A ſad inheritance! As ſparks fly out from
-<pb n="111" facs="tcp:025695_0111_0FCEC12DED9CA2C0"/>burning coals, And ſtill are upwards borne; So grief is rooted in our ſouls, And man grows up to mourn.</p>
+<pb n="111" facs="unknown:025695_0111_0FCEC12DED9CA2C0"/>burning coals, And ſtill are upwards borne; So grief is rooted in our ſouls, And man grows up to mourn.</p>
             </div>
             <div type="tune">
                <head>
@@ -1853,7 +1853,7 @@ Beſides the artificial graces of muſic, ſuch as trills, appoggiatura, &amp;c.
       </body>
       <back>
          <div type="index">
-            <pb facs="tcp:025695_0112_0FCEC1326CFCC110"/>
+            <pb facs="unknown:025695_0112_0FCEC1326CFCC110"/>
             <head>INDEX.</head>
             <p>N. B. ♭ denotes the minor, and <g ref="char:sharp2">♯</g> the major Key.</p>
             <list>
